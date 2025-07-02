@@ -1,0 +1,8 @@
+{
+    "/post": {
+      "target": "http://localhost:4120/",
+      "pathRewrite": {
+        "^/post": ""
+      }
+    }
+  }
